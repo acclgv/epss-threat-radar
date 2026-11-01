@@ -1,0 +1,9 @@
+{
+  "last_radar_scan_utc": "2026-11-01T02:24:22.630Z",
+  "scoring_model": "FIRST.org EPSS v3 + CISA KEV Correlation",
+  "critical_exploitation_threshold": 0.85,
+  "high_priority_cves_flagged": 38,
+  "average_epss_probability": 0.612,
+  "radar_state": "ACTIVE_SURVEILLANCE",
+  "analyst": "Luis García Villena (Accenture)"
+}
